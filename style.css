@@ -32,7 +32,6 @@ h2{
   padding: 2px 5px 10px 2px;
   border: 1px solid whitesmoke;
   margin: 10px 20% 10px 20%;
-
 }
 
 .container-box{
@@ -40,14 +39,15 @@ h2{
  flex-direction: row;
  margin: 15px 5% 5% 5px;
 }
+
 .box-one{
   width: 33%;
   background-color: rgba(79, 157, 166, 0.1);;
   margin-left: 5%;
   border-radius: 10px;
   padding: 15px;
-
 }
+
 .box-two{
   width: 33%;
   background-color: rgba(255, 89, 89, 0.1);
@@ -55,6 +55,7 @@ h2{
   border-radius: 10px;
   padding: 15px;
 }
+
 .box-three{
   width: 33%;
   background-color: rgb(225, 234, 244);
@@ -62,19 +63,23 @@ h2{
   border-radius: 10px;
   padding: 15px;
 }
+
 /* Donation-blog  Section*/
 .container{
   display: flex;
   margin: 10px 10px 20px 30px;
 }
+
 .half-width{
   width: 50%;
   padding: 20px 20px 20px 10px;
 }
+
 .half-width img{
   width: 80%;
   border-radius: 15px;
 }
+
 .ancor-button{
   text-decoration: none;
   background-image: linear-gradient(45deg, #FF5959, tomato);
@@ -83,6 +88,7 @@ h2{
   color: white;
   font-weight: 700;
 }
+
 /* Update Section */
 .updates-container{
   font-family: 'Poppins', sans-serif;
@@ -106,6 +112,7 @@ h2{
 background-color:  #dedbdb;
 padding: 5px 20px;
 }
+
 .submit-container button{
   border: 0;
   padding: 8px 15px;
@@ -113,6 +120,7 @@ padding: 5px 20px;
   color: white;
   font-weight: 500;
 }
+
 /* footer section */
 footer{
   color: #dedbdb;
@@ -120,6 +128,7 @@ footer{
   text-align: center;
   padding: 10px ;
 }
+
 footer h3{
   color: #FF5959;
   font-family: cursive;
